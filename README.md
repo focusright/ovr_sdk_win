@@ -1,5 +1,21 @@
 # ovr_sdk_win
-Oculus Rift SDK C++ Windows version 1.37.0
+
+### Oculus Rift SDK C++ Windows version 1.43.0
+
+Working For
+
+Oculus Rift CV1
+
+Microsoft Visual Studio Community 2017  
+Version 15.9.18  
+VisualStudio.15.Release/15.9.18+28307.960  
+Microsoft .NET Framework  
+Version 4.8.03752  
+
+Windows SDK Version
+10.0.16299.0
+
+### Oculus Rift SDK C++ Windows version 1.37.0
 
 Working For
 
