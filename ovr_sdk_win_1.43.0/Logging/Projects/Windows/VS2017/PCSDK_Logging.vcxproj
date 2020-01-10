@@ -38,6 +38,7 @@
     <ProjectGuid>{08ea9e99-1abe-41b3-9498-51a7824bfca5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>PCSDK_Logging</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -25,7 +25,7 @@
     <ProjectGuid>{57E74E9F-89CB-4DC1-AE45-088F4D194636}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>OculusPerfStatsSample</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
